@@ -1,0 +1,2 @@
+#!/bin/sh
+echo 'DiskSpaceVisualizer v1.0.0'
